@@ -1,0 +1,17 @@
+# Logs
+npm-debug.log*
+
+# Build output
+/dist
+/.vite
+
+# Dependency directories
+node_modules
+
+# Local environment files
+.env
+.env.*
+
+# Editor settings
+.vscode
+.DS_Store
